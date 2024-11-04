@@ -1,0 +1,14 @@
+{
+    "1": {
+        "username":"daniellam",
+        "email":"dltlam@gmail.com",
+        "password":"asdfasdfads",
+        "state": "California"
+    },
+    "2": {
+        "username":"daniellam",
+        "email":"dltlam@gmail.com",
+        "password":"asdfasdfads",
+        "state": "Texas"
+    }
+}
